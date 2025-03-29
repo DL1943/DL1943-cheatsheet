@@ -1,2 +1,2 @@
 # DL1943
-DL1943: Deep Learning codebase
+Codebase for DL1943: Deep Learning Cheatsheet
